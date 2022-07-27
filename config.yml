@@ -2,4 +2,4 @@ baseURL: https://manublog.netlify.app/
 languageCode: en-us
 title: My New Hugo Site
 publishDir: docs
-theme: PaperMod
+theme: "PaperMod"
